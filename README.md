@@ -20,7 +20,6 @@ I architect React/TypeScript systems that solve **business-critical challenges**
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://) 
 [![NextJS](https://img.shields.io/badge/-Next.JS-000000?logo=nextdotjs)](https://) 
-Ionic | Angular | React Native  
 
 **Performance Toolkit**  
 Webpack | Vite | Redis | Memoization | Lazy Loading | Tree Shaking | PWA Optimization  
